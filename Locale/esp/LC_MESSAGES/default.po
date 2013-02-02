@@ -1,0 +1,502 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-02-02 19:12+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/BooksController.php:29;63;91
+msgid "Invalid book"
+msgstr "Libro no válido"
+
+#: Controller/BooksController.php:44;67
+msgid "The book has been saved"
+msgstr "El libro ha sido guardado"
+
+#: Controller/BooksController.php:47;70
+msgid "The book could not be saved. Please, try again."
+msgstr "No se pudo guardar el libro. Por favor, intente de nuevo"
+
+#: Controller/BooksController.php:95
+msgid "Book deleted"
+msgstr "Libro borrado"
+
+#: Controller/BooksController.php:98
+msgid "Book was not deleted"
+msgstr ""
+
+#: Controller/CategoriesController.php:29;61;87
+msgid "Invalid category"
+msgstr ""
+
+#: Controller/CategoriesController.php:44;65
+msgid "The category has been saved"
+msgstr ""
+
+#: Controller/CategoriesController.php:47;68
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:91
+msgid "Category deleted"
+msgstr ""
+
+#: Controller/CategoriesController.php:94
+msgid "Category was not deleted"
+msgstr ""
+
+#: Controller/LoansController.php:29;64;93
+msgid "Invalid loan"
+msgstr ""
+
+#: Controller/LoansController.php:44;68
+msgid "The loan has been saved"
+msgstr ""
+
+#: Controller/LoansController.php:47;71
+msgid "The loan could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoansController.php:97
+msgid "Loan deleted"
+msgstr ""
+
+#: Controller/LoansController.php:100
+msgid "Loan was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:29;61;87
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:44;65
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:47;68
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:91
+msgid "User deleted"
+msgstr ""
+
+#: Controller/UsersController.php:94
+msgid "User was not deleted"
+msgstr ""
+
+#: View/Books/add.ctp:4
+msgid "Add Book"
+msgstr ""
+
+#: View/Books/add.ctp:13
+#: View/Books/edit.ctp:14
+#: View/Categories/add.ctp:9
+#: View/Categories/edit.ctp:10
+#: View/Loans/add.ctp:10
+#: View/Loans/edit.ctp:11
+#: View/Users/add.ctp:10
+#: View/Users/edit.ctp:11
+msgid "Submit"
+msgstr "Enviar"
+
+#: View/Books/add.ctp:16
+#: View/Books/edit.ctp:17
+#: View/Books/index.ctp:13;50
+#: View/Books/view.ctp:47;69
+#: View/Categories/add.ctp:12
+#: View/Categories/edit.ctp:13
+#: View/Categories/index.ctp:9;40
+#: View/Categories/view.ctp:27;50
+#: View/Loans/add.ctp:13
+#: View/Loans/edit.ctp:14
+#: View/Loans/index.ctp:10;46
+#: View/Loans/view.ctp:32
+#: View/Users/add.ctp:13
+#: View/Users/edit.ctp:14
+#: View/Users/index.ctp:10;42
+#: View/Users/view.ctp:32;52
+msgid "Actions"
+msgstr "Acciones"
+
+#: View/Books/add.ctp:19
+#: View/Books/edit.ctp:21
+#: View/Books/view.ctp:51
+#: View/Categories/add.ctp:16
+#: View/Categories/edit.ctp:18
+#: View/Categories/index.ctp:43
+#: View/Categories/view.ctp:33
+#: View/Loans/add.ctp:19
+#: View/Loans/edit.ctp:21
+#: View/Loans/index.ctp:51
+#: View/Loans/view.ctp:40
+msgid "List Books"
+msgstr "Lista de Libros"
+
+#: View/Books/add.ctp:20
+#: View/Books/edit.ctp:22
+#: View/Books/index.ctp:53
+#: View/Books/view.ctp:53
+#: View/Categories/add.ctp:15
+#: View/Categories/edit.ctp:17
+#: View/Categories/view.ctp:31
+msgid "List Categories"
+msgstr "Lista de Categorías"
+
+#: View/Books/add.ctp:21
+#: View/Books/edit.ctp:23
+#: View/Books/index.ctp:54
+#: View/Books/view.ctp:54
+#: View/Categories/index.ctp:42
+#: View/Categories/view.ctp:32
+msgid "New Category"
+msgstr "Nueva Categoría"
+
+#: View/Books/add.ctp:22
+#: View/Books/edit.ctp:24
+#: View/Books/index.ctp:55
+#: View/Books/view.ctp:55
+#: View/Loans/add.ctp:16
+#: View/Loans/edit.ctp:18
+#: View/Loans/view.ctp:36
+#: View/Users/add.ctp:17
+#: View/Users/edit.ctp:19
+#: View/Users/index.ctp:45
+#: View/Users/view.ctp:38
+msgid "List Loans"
+msgstr ""
+
+#: View/Books/add.ctp:23
+#: View/Books/edit.ctp:25
+#: View/Books/index.ctp:56
+#: View/Books/view.ctp:56;92
+#: View/Loans/index.ctp:48
+#: View/Loans/view.ctp:37
+#: View/Users/add.ctp:18
+#: View/Users/edit.ctp:20
+#: View/Users/index.ctp:46
+#: View/Users/view.ctp:39;75
+msgid "New Loan"
+msgstr ""
+
+#: View/Books/edit.ctp:4
+#: View/Books/view.ctp:49
+msgid "Edit Book"
+msgstr ""
+
+#: View/Books/edit.ctp:20
+#: View/Books/index.ctp:30
+#: View/Books/view.ctp:83
+#: View/Categories/edit.ctp:16
+#: View/Categories/index.ctp:20
+#: View/Categories/view.ctp:67
+#: View/Loans/edit.ctp:17
+#: View/Loans/index.ctp:26
+#: View/Users/edit.ctp:17
+#: View/Users/index.ctp:22
+#: View/Users/view.ctp:66
+msgid "Delete"
+msgstr ""
+
+#: View/Books/edit.ctp:20
+#: View/Books/index.ctp:30
+#: View/Books/view.ctp:50;83
+#: View/Categories/edit.ctp:16
+#: View/Categories/index.ctp:20
+#: View/Categories/view.ctp:30;67
+#: View/Loans/edit.ctp:17
+#: View/Loans/index.ctp:26
+#: View/Loans/view.ctp:35
+#: View/Users/edit.ctp:17
+#: View/Users/index.ctp:22
+#: View/Users/view.ctp:35;66
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Books/index.ctp:2
+msgid "Books"
+msgstr "Libros"
+
+#: View/Books/index.ctp:28
+#: View/Books/view.ctp:81
+#: View/Categories/index.ctp:18
+#: View/Categories/view.ctp:65
+#: View/Loans/index.ctp:24
+#: View/Users/index.ctp:20
+#: View/Users/view.ctp:64
+msgid "View"
+msgstr "Ver"
+
+#: View/Books/index.ctp:29
+#: View/Books/view.ctp:82
+#: View/Categories/index.ctp:19
+#: View/Categories/view.ctp:66
+#: View/Loans/index.ctp:25
+#: View/Users/index.ctp:21
+#: View/Users/view.ctp:65
+msgid "Edit"
+msgstr "Editar"
+
+#: View/Books/index.ctp:38
+#: View/Categories/index.ctp:28
+#: View/Loans/index.ctp:34
+#: View/Users/index.ctp:30
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Books/index.ctp:43
+#: View/Categories/index.ctp:33
+#: View/Loans/index.ctp:39
+#: View/Users/index.ctp:35
+msgid "previous"
+msgstr "anterior"
+
+#: View/Books/index.ctp:45
+#: View/Categories/index.ctp:35
+#: View/Loans/index.ctp:41
+#: View/Users/index.ctp:37
+msgid "next"
+msgstr "siguiente"
+
+#: View/Books/index.ctp:52
+#: View/Books/view.ctp:52
+#: View/Categories/add.ctp:17
+#: View/Categories/edit.ctp:19
+#: View/Categories/index.ctp:44
+#: View/Categories/view.ctp:34;76
+#: View/Loans/add.ctp:20
+#: View/Loans/edit.ctp:22
+#: View/Loans/index.ctp:52
+#: View/Loans/view.ctp:41
+msgid "New Book"
+msgstr "Nuevo Libro"
+
+#: View/Books/view.ctp:2
+#: View/Loans/view.ctp:14
+msgid "Book"
+msgstr "Libro"
+
+#: View/Books/view.ctp:4;64
+#: View/Categories/view.ctp:4;42
+#: View/Loans/view.ctp:4
+#: View/Users/view.ctp:4;47
+msgid "Id"
+msgstr ""
+
+#: View/Books/view.ctp:9
+#: View/Categories/view.ctp:9;43
+#: View/Users/view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: View/Books/view.ctp:14
+#: View/Categories/view.ctp:44
+msgid "ISBN"
+msgstr ""
+
+#: View/Books/view.ctp:19
+#: View/Categories/view.ctp:45
+msgid "Description"
+msgstr ""
+
+#: View/Books/view.ctp:24
+#: View/Categories/view.ctp:2
+msgid "Category"
+msgstr ""
+
+#: View/Books/view.ctp:29
+#: View/Categories/view.ctp:47
+msgid "Author"
+msgstr ""
+
+#: View/Books/view.ctp:34;67
+#: View/Categories/view.ctp:14;48
+#: View/Loans/view.ctp:19
+#: View/Users/view.ctp:19;50
+msgid "Created"
+msgstr ""
+
+#: View/Books/view.ctp:39;68
+#: View/Categories/view.ctp:19;49
+#: View/Loans/view.ctp:24
+#: View/Users/view.ctp:24;51
+msgid "Modified"
+msgstr ""
+
+#: View/Books/view.ctp:50
+msgid "Delete Book"
+msgstr ""
+
+#: View/Books/view.ctp:60
+#: View/Users/view.ctp:43
+msgid "Related Loans"
+msgstr ""
+
+#: View/Books/view.ctp:65
+#: View/Users/view.ctp:48
+msgid "User Id"
+msgstr ""
+
+#: View/Books/view.ctp:66
+#: View/Users/view.ctp:49
+msgid "Book Id"
+msgstr ""
+
+#: View/Categories/add.ctp:4
+msgid "Add Category"
+msgstr ""
+
+#: View/Categories/edit.ctp:4
+#: View/Categories/view.ctp:29
+msgid "Edit Category"
+msgstr ""
+
+#: View/Categories/index.ctp:2
+msgid "Categories"
+msgstr ""
+
+#: View/Categories/view.ctp:30
+msgid "Delete Category"
+msgstr ""
+
+#: View/Categories/view.ctp:38
+msgid "Related Books"
+msgstr ""
+
+#: View/Categories/view.ctp:46
+msgid "Category Id"
+msgstr ""
+
+#: View/Layouts/default.ctp:24
+#: View/Layouts/error.ctp:24
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: View/Layouts/default.ctp:50
+#: View/Layouts/error.ctp:40;50
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: View/Loans/add.ctp:4
+msgid "Add Loan"
+msgstr ""
+
+#: View/Loans/add.ctp:17
+#: View/Loans/edit.ctp:19
+#: View/Loans/index.ctp:49
+#: View/Loans/view.ctp:38
+#: View/Users/add.ctp:16
+#: View/Users/edit.ctp:18
+#: View/Users/view.ctp:36
+msgid "List Users"
+msgstr ""
+
+#: View/Loans/add.ctp:18
+#: View/Loans/edit.ctp:20
+#: View/Loans/index.ctp:50
+#: View/Loans/view.ctp:39
+#: View/Users/index.ctp:44
+#: View/Users/view.ctp:37
+msgid "New User"
+msgstr ""
+
+#: View/Loans/edit.ctp:4
+#: View/Loans/view.ctp:34
+msgid "Edit Loan"
+msgstr ""
+
+#: View/Loans/index.ctp:2
+msgid "Loans"
+msgstr ""
+
+#: View/Loans/view.ctp:2
+msgid "Loan"
+msgstr ""
+
+#: View/Loans/view.ctp:9
+#: View/Users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: View/Loans/view.ctp:35
+msgid "Delete Loan"
+msgstr ""
+
+#: View/Pages/home.ctp:4
+msgid "Show All Users"
+msgstr ""
+
+#: View/Pages/home.ctp:13
+msgid "Show All Books"
+msgstr ""
+
+#: View/Pages/home.ctp:22
+msgid "Show All Categories"
+msgstr ""
+
+#: View/Pages/home.ctp:31
+msgid "Show All Loans"
+msgstr ""
+
+#: View/Users/add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: View/Users/edit.ctp:4
+#: View/Users/view.ctp:34
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: View/Users/view.ctp:14
+msgid "Email"
+msgstr ""
+
+#: View/Users/view.ctp:35
+msgid "Delete User"
+msgstr ""
+
+#: Model/Book.php:validation for field name;validation for field ISBN;validation for field author
+#: Model/Category.php:validation for field name
+#: Model/User.php:validation for field name
+msgid "notempty"
+msgstr ""
+
+#: Model/Book.php:validation for field category_id
+#: Model/Loan.php:validation for field user_id;validation for field book_id
+msgid "numeric"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "email"
+msgstr ""
+
+#: View/Errors/error400.ctp:21
+#: View/Errors/error500.ctp:21
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: webroot/test.php:89
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
